@@ -1,0 +1,31 @@
+{
+  "name": "coffeshop",
+  "version": "1.0.0",
+  "description": "Proyecto coffeshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starlingavila/Javi.git"
+  },
+  "keywords": [
+    "coffeshop"
+  ],
+  "author": "Starling Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starlingavila/Javi/issues"
+  },
+  "homepage": "https://github.com/starlingavila/Javi#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.3",
+    "morgan": "^1.9.0"
+  }
+}
